@@ -1,0 +1,7 @@
+
+
+[/usr/local/src/robot/MyProjects/mySuperBuildSuperCool/dancing-octo-robo-mage-wannabe]
+checkout = git clone 'https://github.com/barbalberto/dancing-octo-robo-mage-wannabe.git' '.'
+
+[magician]
+checkout = git clone 'https://github.com/barbalberto/magician.git' 'magician'
