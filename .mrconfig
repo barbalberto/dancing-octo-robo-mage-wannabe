@@ -1,7 +1,8 @@
 
-
 [/usr/local/src/robot/MyProjects/mySuperBuildSuperCool/dancing-octo-robo-mage-wannabe]
 checkout = git clone 'https://github.com/barbalberto/dancing-octo-robo-mage-wannabe.git' '.'
+update = git pull --rebase
 
 [magician]
 checkout = git clone 'https://github.com/barbalberto/magician.git' 'magician'
+lib = info
